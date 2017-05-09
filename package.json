@@ -1,0 +1,10 @@
+{
+  "name": "prismplayer",
+  "version": "1.7.2",
+  "main": "prism-h5.js",
+  "description": "阿里云VOD播放器",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zgrong/prismplayer.git"
+  }
+}
